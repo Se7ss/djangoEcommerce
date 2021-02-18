@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\se7ss\\.virtualenvs\\djangoEcommerce-6LOVZ37U\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylamaEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.mypyEnabled": false
+}
